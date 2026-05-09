@@ -234,7 +234,7 @@ function PrimeFXPage() {
     <>
       {/* NAV */}
       <nav>
-        <a href="#" className="nav-logo">PRIME<span>FX</span></a>
+        <a href="#" className="nav-logo">NOVA<span>VENTURES</span></a>
         <ul className="nav-links">
           <li><a href="#about">About</a></li>
           <li><a href="#serve">Who We Serve</a></li>
@@ -480,7 +480,7 @@ function PrimeFXPage() {
                 </div>
                 <div>
                   <div className="contact-item-label">Phone</div>
-                  <div className="contact-item-val">+1 800 000 0000</div>
+                  <div className="contact-item-val">+91 8490003335</div>
                 </div>
               </div>
               <div className="contact-item">
@@ -489,7 +489,7 @@ function PrimeFXPage() {
                 </div>
                 <div>
                   <div className="contact-item-label">Email</div>
-                  <div className="contact-item-val">support@yourdomain.com</div>
+                  <div className="contact-item-val">support@novaventures.in</div>
                 </div>
               </div>
               <div className="contact-item">
